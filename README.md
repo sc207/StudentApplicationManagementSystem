@@ -3,6 +3,7 @@
 A comprehensive Student Application Management System built using JavaFX, MySQL, and JDBC as part of the IT Solutions program at Humber College. Developed in IntelliJ IDEA Community Edition 2023.3.2, this system is designed to streamline the application process with distinct roles for Admin, Registrar, and Students.
 
 Key Features:
+
 Admin Control:
 Manage and oversee registrars.
 Generate and download detailed reports in CSV format.
