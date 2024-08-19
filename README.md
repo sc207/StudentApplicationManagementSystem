@@ -4,17 +4,16 @@ A comprehensive Student Application Management System built using JavaFX, MySQL,
 
 Key Features:
 Admin Control:
-
 Manage and oversee registrars.
 Generate and download detailed reports in CSV format.
 Maintain overall system security and integrity.
-Registrar Dashboard:
 
+Registrar Dashboard:
 Department-specific registrars manage student applications.
 Verify student-submitted documents and update application statuses.
 Access and manage departmental student data and reports.
-Student Portal:
 
+Student Portal:
 Students can register, log in, and submit applications.
 Upload required documents securely.
 Track the status of their application and receive notifications from registrars.
